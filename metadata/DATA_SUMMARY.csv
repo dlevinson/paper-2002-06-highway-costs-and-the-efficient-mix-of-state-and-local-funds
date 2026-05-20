@@ -1,0 +1,8 @@
+file,modernized_csv,rows,columns,label
+data/original/Highway5.dta,data/modernized/Highway5.csv,54,85,stata_input
+data/original/Highway5x.dta,data/modernized/Highway5x.csv,54,240,stata_derived_after_do
+data/original/hwy-local.xls,data/modernized/hwy-local_Sheet5.csv,17,9,excel_sheet:Sheet5
+data/original/hwy-local.xls,data/modernized/hwy-local_Sheet6.csv,18,9,excel_sheet:Sheet6
+data/original/hwy-local.xls,data/modernized/hwy-local_Sheet1.csv,51,5,excel_sheet:Sheet1
+data/original/hwy-local.xls,data/modernized/hwy-local_Sheet2.csv,0,0,excel_sheet:Sheet2
+data/original/hwy-local.xls,data/modernized/hwy-local_Sheet3.csv,0,0,excel_sheet:Sheet3
