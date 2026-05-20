@@ -1,6 +1,6 @@
 # License Status: Highway Costs and the Efficient Mix of State and Local Funds
 
-Generated: 2026-05-20 14:46:37 AEST
+Generated: 2026-05-20 15:23:47 AEST
 
 Recorded license/access note from the verified audit row: Public source/provider terms apply; cite FHWA/U.S. DOT and TRR DOI. Local package does not relicense the paper PDF.
 
